@@ -1,0 +1,14 @@
+## Interface: 16001, 11509
+## Title: EzDock
+## Notes: Gathers the launcher icons of the Ez addons into one dock you can fold, move and reorder.
+## Author: Marc
+## Version: @project-version@
+## Category: Interface Enhancements
+## IconTexture: Interface\Icons\INV_Misc_Bag_10
+## SavedVariables: EzDockDB
+## SavedVariablesPerCharacter: EzDockCharDB
+
+Data.lua
+Layout.lua
+Core.lua
+Settings.lua
