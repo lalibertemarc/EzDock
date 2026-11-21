@@ -7,6 +7,7 @@
 ## IconTexture: Interface\Icons\INV_Misc_Bag_10
 ## SavedVariables: EzDockDB
 ## SavedVariablesPerCharacter: EzDockCharDB
+## X-Curse-Project-ID: 1821873
 
 Data.lua
 Layout.lua
